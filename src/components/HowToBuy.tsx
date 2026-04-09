@@ -23,7 +23,7 @@ export default function HowToBuy({ onNavigate }: HowToBuyProps) {
             className="relative group overflow-hidden rounded-3xl h-[400px] sm:h-[500px]"
           >
             <img
-              src="https://images.unsplash.com/photo-1534483909714-d40ad1df62f4?auto=format&fit=crop&q=80&w=1000"
+              src="/shopnow.png"
               alt="Shop Online"
               className="absolute inset-0 w-full h-full object-cover opacity-40 group-hover:scale-105 transition-transform duration-700"
               referrerPolicy="no-referrer"
