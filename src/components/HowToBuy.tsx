@@ -39,7 +39,7 @@ export default function HowToBuy({ onNavigate }: HowToBuyProps) {
                 Perfect for smaller recurring orders and immediate fulfillment. Browse our live inventory and checkout securely.
               </p>
               <a 
-                href="https://well-connected-company-limited-vip6.vercel.app/"
+                href="https://www.wellconnectedltd.store/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gold hover:bg-gold/90 text-navy font-bold py-4 px-10 rounded-full uppercase tracking-widest transition-all shadow-xl inline-block"
