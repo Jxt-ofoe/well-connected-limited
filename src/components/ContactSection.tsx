@@ -26,7 +26,7 @@ export default function ContactSection() {
       `Email: ${email}`,
       `Message: ${message}`
     ].join('\n');
-    const phone = '233530153065';
+    const phone = '233244612516';
     // Use encodeURIComponent only for the URL, not for the message formatting
     const waUrl = `https://wa.me/${phone}?text=${encodeURIComponent(text)}`;
     window.open(waUrl, '_blank');
@@ -86,7 +86,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <p className="text-xs uppercase tracking-widest text-charcoal/40">Email</p>
-                 <p className="text-lg font-medium text-navy">wellconnected@gmail.com, eofoe02@gmail.com</p>
+                 <p className="text-lg font-medium text-navy">wellconnected13@gmail.com</p>
               </div>
             </div>
             
