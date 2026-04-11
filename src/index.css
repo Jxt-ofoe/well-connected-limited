@@ -5,9 +5,9 @@
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-serif: "Playfair Display", ui-serif, Georgia, serif;
 
-  --color-navy: #002B5B;
-  --color-gold: #D4AF37;
-  --color-off-white: #F8F9FA;
+  --color-navy: #0077B6;
+  --color-gold: #FFE135;
+  --color-off-white: #FFFFFF;
   --color-charcoal: #212529;
 
   --animate-fade-in: fade-in 0.6s ease-out forwards;
@@ -26,7 +26,7 @@
 
 @layer base {
   body {
-    @apply font-sans text-charcoal bg-off-white antialiased;
+    @apply font-sans text-charcoal bg-white antialiased;
   }
 
   h1, h2, h3, h4, h5, h6 {
